@@ -1,10 +1,7 @@
 # Fashion Meets Tech
 ## Article Link: https://www.scrums.com/blog/fashion-meets-tech-a-future-of-fashion-software-development
 
-It's fascinating to see the gradual progression that technology has imprinted on the fashion industry, as we are seeing more sophisticated tools being used for consumers to 
-elevate their fashion style. We are noticing this especially with 3D design software and AI-driven analyses used for brands to monitor new trends that are arising from new 
-and old retail departments. While ads are a part of the reason of this growth, sustainability has been another topic of discussion for users and creators. Virtual models 
-have been used in designs and ways to reduce physical samples to be worn on models. Additionally, companies such as Coach have put up Augmented Reality mirrors for customers 
-to pair different outfit pieces of their liking, helping with overall customer satisfaction.
+It's fascinating to see the gradual progression that technology has imprinted on the fashion industry, as we are seeing more sophisticated tools being used for consumers to elevate their fashion style. We are noticing this especially with 3D design software and AI-driven analyses used for brands to monitor new trends that are arising from new and old retail departments. While ads are a part of the reason of this growth, sustainability has been another topic of discussion for users and creators. Virtual models have been used in designs and ways to reduce physical samples to be worn on models. Additionally, companies such as Coach have put up Augmented Reality mirrors for customers to pair different outfit pieces of their liking, helping with overall customer satisfaction.
 
-
+## comments from Jiangbo Shen
+Artificial intelligence can centainly do a lot of things we cannot even imagine a few years ago, especially in visual and digital art creation. It's quite interesting that this article mentions two softwares, Clo3D and Adobe, that contribute to the field of fashion through technology. I've got the opportunity to use Adobe illustrator in the previous semster, and this software has a built in AI tool that automatically generate images based on users' instruction. I did realize it can be a helpful tool that fascilitates software/website creation but I did not know it will bring a transformative change to the fashion arena. I believe it would be interesting to explore other application of AI generated fashion designs.
